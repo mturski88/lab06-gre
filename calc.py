@@ -21,3 +21,4 @@ with open("/tmp/wynik.txt", "w") as file:
     file.write(str(result))
 
 print("Wynik {}".format(result))
+#POBIERANIE
